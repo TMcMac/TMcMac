@@ -1,5 +1,22 @@
 # Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm Tim, and I am a software engineer with a focus on data science and enriching people's lives with great tools. I will be completing the Holberton School two year full stack engineering program in January 2022, and looking to find a great team there after. I love working with Python and have had a great time getting closer to the metal with C. 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmcmac&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcmac&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/CMDmine
+[2]: https://www.linkedin.com/in/timmcmacken/
